@@ -1,0 +1,15 @@
+{
+  "DB": {
+    "Host": "127.0.0.1",
+    "Port": "8529",
+    "User": "root",
+    "Passwd": "zxczxc",
+    "DataName": "x"
+  },
+  "Http": {
+    "Port": "3000"
+  },
+  "client": {
+    "Path": "../../client/dist"
+  }
+}

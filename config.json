@@ -1,0 +1,15 @@
+{
+  "DefaultDB": {
+    "Host": "127.0.0.1",
+    "Port": "5432",
+    "User": "postgres",
+    "Passwd": "zxczxczxc",
+    "DataName": "x"
+  },
+  "Http": {
+    "Port": "4000"
+  },
+  "client": {
+    "Path": "../client/dist"
+  }
+}
